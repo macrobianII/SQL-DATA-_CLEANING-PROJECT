@@ -5,6 +5,8 @@ End-to-end SQL data cleaning project transforming raw layoffs data into an analy
 ## Overview
 
 This project demonstrates a complete data cleaning workflow using MySQL. The goal is to transform raw layoff data into a structured and analysis-ready dataset.
+Use This link to download the dataset https://www.kaggle.com/datasets/swaptr/layoffs-2022 or 
+https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv
 
 ## Objectives
 
